@@ -1,0 +1,29 @@
+{
+    "name": "com.westharborgames.template",
+    "displayName": "West Harbor Games - Unity Package Template",
+    "version": "0.1.0",
+    "unity": "2021.3",
+    "description": "A template package to be used as the basis for creating UPM packages.",
+    "license": "MIT",
+    "author": {
+        "name": "Shane Padgett",
+        "email": "contact@shanepadgett.dev",
+        "url": "https://github.com/West-Harbor-Games/unity-package-template"
+    },
+    "dependencies": {
+        "com.unity.ext.nunit": "1.0.0"
+    },
+    "keywords": [
+        "West Harbor Games",
+        "UPM",
+        "Template",
+        "Tool"
+    ],
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "An example package",
+            "path": "Samples~/Sample"
+        }
+    ]
+}
